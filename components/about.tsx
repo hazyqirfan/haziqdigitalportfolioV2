@@ -26,7 +26,7 @@ export default function About() {
             <div className="grid gap-1">
               <h3 className="text-xl font-bold">skills</h3>
               <p className="text-muted-foreground">
-              My technical toolkit includes HTML, CSS, Python, and PHP for web development. I'm experienced in database management and Android Studio for mobile development. My workflow is enhanced by Visual Studio Code, and I'm proficient in automation tools like Power Automate, RPA, VBA, and Bomgar for streamlined solutions.🌌💻
+              My technical toolkit includes HTML, CSS, Python, and PHP for web development. I&apos;m experienced in database management and Android Studio for mobile development. My workflow is enhanced by Visual Studio Code, and I&apos;m proficient in automation tools like Power Automate, RPA, VBA, and Bomgar for streamlined solutions.🌌💻
               </p>
             </div>
     
